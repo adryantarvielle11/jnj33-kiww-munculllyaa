@@ -1,4 +1,4 @@
-[<!doctype html>
+<!doctype html>
 <html amp lang="id">
   <head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="description" content="Tulang Iblis Bangkit! Rahasia Kekuatan yang Bahkan Dewa Takuti di JANJI33 2026 menghadirkan kisah epik tentang kebangkitan artefak legendaris yang menyimpan kekuatan gelap tak terbatas, mampu mengguncang keseimbangan dunia hingga membuat para dewa sekalipun gentar. Di tengah kekacauan yang mulai menyebar, muncul sosok misterius yang mencoba menguasai energi tersebut dan menantang takdir demi kekuatan tertinggi. Dengan nuansa penuh misteri, dominasi, dan ambisi, cerita ini membawa pengalaman dramatis yang intens dan tak terlupakan hanya bersama JANJI33 2026." />
     <link rel="canonical" href="https://community.trymaintain.com/">
     <link href="https://files.sitestatic.net/ImageFile/202506240136480000004d1713cafd__JANJI33__512x512.png" rel="shortcut icon" type="image/x-icon" />
-    <meta property="og:site_name" content="BADAK178" />
+    <meta property="og:site_name" content="JANJI33" />
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://community.trymaintain.com/">
     <meta property="og:title" content="Tulang Iblis Bangkit! Rahasia Kekuatan yang Bahkan Dewa Takuti di JANJI33 2026" />
@@ -328,7 +328,7 @@
   <body>
     <div class="wrapper">
       <div class="logo">
-        <amp-img src="https://files.sitestatic.net/ImageFile/20250624013648000000d6df5bb661__JANJI33__3100x800.webp" width="200" height="60" alt="Logo BADAK178"></amp-img>
+        <amp-img src="https://files.sitestatic.net/ImageFile/20250624013648000000d6df5bb661__JANJI33__3100x800.webp" width="200" height="60" alt="Logo JANJI33"></amp-img>
       </div>
       <div class="block-img">
         <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow">
@@ -336,8 +336,8 @@
         </a>
       </div>
       <div class="container">
-        <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Daftar akun BADAK178">DAFTAR</a>
-        <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Login akun BADAK178">LOGIN</a>
+        <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Daftar akun JANJI33">DAFTAR</a>
+        <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Login akun JANJI33">LOGIN</a>
       </div>
     </div>
     <table class="informasi-table">
@@ -347,7 +347,7 @@
       </colgroup>
       <thead>
         <tr>
-          <th colspan="2">INFORMASI SITUS BADAK178</th>
+          <th colspan="2">INFORMASI SITUS JANJI33</th>
         </tr>
       </thead>
       <tbody>
@@ -374,25 +374,25 @@
       <div class="footer-nav">
         <div class="footer-icon">
           <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://knowrestate.com/img/home.png" width="30" height="30" alt="Home BADAK178"></amp-img>
+            <amp-img src="https://knowrestate.com/img/home.png" width="30" height="30" alt="Home JANJI33"></amp-img>
             <div class="footer-text">HOME</div>
           </a>
         </div>
         <div class="footer-icon">
           <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://knowrestate.com/img/login.png" width="30" height="30" alt="Login BADAK178"></amp-img>
+            <amp-img src="https://knowrestate.com/img/login.png" width="30" height="30" alt="Login JANJI33"></amp-img>
             <div class="footer-text">LOGIN</div>
           </a>
         </div>
         <div class="footer-icon">
           <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://knowrestate.com/img/download.png" width="30" height="30" alt="Download BADAK178"></amp-img>
+            <amp-img src="https://knowrestate.com/img/download.png" width="30" height="30" alt="Download JANJI33"></amp-img>
             <div class="footer-text">DOWNLOAD</div>
           </a>
         </div>
         <div class="footer-icon">
           <a href="https://vpnsifu.com/janji33" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://knowrestate.com/img/view-desktop.png" width="30" height="30" alt="Dekstop BADAK178"></amp-img>
+            <amp-img src="https://knowrestate.com/img/view-desktop.png" width="30" height="30" alt="Dekstop JANJI33"></amp-img>
             <div class="footer-text">DEKSTOP</div>
           </a>
         </div>
@@ -400,4 +400,3 @@
     </footer>
   </body>
 </html>
-](https://github.com/adryantarvielle11/jnj33-kiww-munculllyaa.git)
